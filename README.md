@@ -1,7 +1,7 @@
 ## bem vindos ao meu perfil 🌸
 
 meu nome é camilly 
-- estou estudando na plataforma alura
+- estou estudando na plataforma [alura](https://www.alura.com.br)
 - estou me desenvolvendo para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### você pode entrar em contato comigo 📫
